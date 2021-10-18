@@ -10,4 +10,3 @@ design:
   background:
     text_color_light: true
 ---
-abcdef
