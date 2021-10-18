@@ -1,7 +1,7 @@
 ---
 title: Florian Onur Kuhlmeier
 role: PhD Candidate
-avatar_filename: fok_winefarm.png
+avatar_filename: img_2428.jpeg
 bio: ""
 interests: []
 social: []
