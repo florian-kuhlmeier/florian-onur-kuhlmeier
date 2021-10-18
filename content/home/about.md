@@ -5,7 +5,7 @@ author: admin
 widget_id: biography
 headless: true
 weight: 20
-title: Biography
+title: ""
 design:
   background:
     text_color_light: false
