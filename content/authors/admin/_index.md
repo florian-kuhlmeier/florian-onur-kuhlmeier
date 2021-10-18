@@ -7,6 +7,16 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - display:
+      header: false
+    icon_pack: ai
+    link: twitter.com/FlorianOnur
+    icon: twitter
+  - display:
+      header: false
+    link: linkedin.com/floriankuhlmeier
+    icon_pack: ai
+    icon: linkedin
 organizations:
   - name: Karlsruhe Institute of Technology
   - name: University of Ulm
