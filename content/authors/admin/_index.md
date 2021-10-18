@@ -16,4 +16,6 @@ highlight_name: true
 ---
 Hi! Welcome to my personal site.
 
-I'm a PhD Candidate at the University of Ulm and the Karlsruhe Institute of Technology. My research is on how to design, develop and evaluate conversational agents to treat symptoms of depression. Besides, I am interested in statistical and computational approaches, data visualization, and passionate about open science.
+I'm a PhD Candidate at the University of Ulm and the Karlsruhe Institute of Technology. My research is on how to design conversational agents to treat symptoms of depression. 
+
+I enjoy statistics and data visualization, knowledge management and I'm a big fan of open science. So, over time I'll try to blog about the things I learn and do in these areas.
