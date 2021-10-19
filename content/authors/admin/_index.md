@@ -17,8 +17,10 @@ organizations:
 education:
   courses:
     - course: M.Sc. Cognitive Science
-      institution: Eberhard Karl University of Tübingen
-      year: 2020
+      institution: Eberhard Karl Universität Tübingen
+      year: ""
+    - course: B.Sc. Business Psychology
+      institution: Leuphana Universität Lüneburg
 email: ""
 superuser: true
 highlight_name: true
