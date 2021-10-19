@@ -9,8 +9,8 @@ social:
       header: false
     link: https://twitter.com/FlorianOnur
     label: Twitter
-    icon_pack: ai
-    icon: acm
+    icon_pack: far
+    icon: twitter
 organizations:
   - name: Karlsruhe Institute of Technology
   - name: University of Ulm
