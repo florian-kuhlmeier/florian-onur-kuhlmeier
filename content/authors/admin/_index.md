@@ -9,8 +9,14 @@ social:
       header: false
     link: https://twitter.com/FlorianOnur
     label: Twitter
-    icon_pack: far
+    icon_pack: fab
     icon: twitter
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/floriankuhlmeier/
+    icon_pack: fab
+    icon: linkedin
+    label: Linkedin
 organizations:
   - name: Karlsruhe Institute of Technology
   - name: University of Ulm
