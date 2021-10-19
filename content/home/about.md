@@ -8,5 +8,5 @@ weight: 20
 title: ""
 design:
   background:
-    text_color_light: false
+    text_color_light: true
 ---
