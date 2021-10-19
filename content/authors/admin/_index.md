@@ -1,7 +1,7 @@
 ---
 title: Florian Onur Kuhlmeier
 role: PhD Candidate
-avatar_filename: img_2428.jpeg
+avatar_filename: avatar.png
 bio: ""
 interests: []
 social: []
