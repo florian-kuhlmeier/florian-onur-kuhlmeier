@@ -4,12 +4,21 @@ role: PhD Candidate
 avatar_filename: avatar.png
 bio: ""
 interests: []
-social: []
+social:
+  - display:
+      header: false
+    link: https://twitter.com/FlorianOnur
+    label: Twitter
+    icon_pack: ai
+    icon: acm
 organizations:
   - name: Karlsruhe Institute of Technology
   - name: University of Ulm
 education:
-  courses: []
+  courses:
+    - course: M.Sc. Cognitive Science
+      institution: Eberhard Karl University of Tübingen
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
